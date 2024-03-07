@@ -106,7 +106,7 @@ coverage[toml]==7.4.1
     # via
     #   coverage
     #   pytest-cov
-cryptography==41.0.7
+cryptography==42.0.4
     # via
     #   django-encrypted-model-fields
     #   docusign-esign
@@ -299,7 +299,7 @@ drf-yasg==1.21.7
     # via -r requirements.in
 et-xmlfile==1.1.0
     # via openpyxl
-eth-abi==5.0.0
+eth-abi==5.0.1
     # via
     #   eth-account
     #   web3
@@ -527,7 +527,7 @@ pickleshare==0.7.5
     # via ipython
 pilkit==3.0
     # via django-imagekit
-pillow==9.5.0
+pillow==10.2.0
     # via
     #   -r requirements.in
     #   django-colorfield
