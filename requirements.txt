@@ -299,7 +299,7 @@ drf-yasg==1.21.7
     # via -r requirements.in
 et-xmlfile==1.1.0
     # via openpyxl
-eth-abi==5.0.0
+eth-abi==5.0.1
     # via
     #   eth-account
     #   web3
