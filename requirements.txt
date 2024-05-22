@@ -704,7 +704,7 @@ reportlab==3.6.13
     #   -r requirements.in
     #   svglib
     #   xhtml2pdf
-requests==2.31.0
+requests==2.32.0
     # via
     #   currency-cloud
     #   django-allauth
