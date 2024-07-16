@@ -883,7 +883,7 @@ pip==23.2.1
     # via
     #   -r requirements.in
     #   pip-tools
-setuptools==69.0.3
+setuptools==70.0.0
     # via
     #   -r requirements.in
     #   django-axes
