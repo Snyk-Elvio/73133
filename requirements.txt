@@ -399,7 +399,7 @@ httplib2==0.22.0
     #   google-auth-httplib2
 hubspot-api-client==8.0.0
     # via -r requirements.in
-idna==3.6
+idna==3.7
     # via
     #   requests
     #   yarl
