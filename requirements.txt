@@ -68,7 +68,7 @@ cachetools==5.3.2
     # via google-auth
 celery==5.3.1
     # via -r requirements.in
-certifi==2024.2.2
+certifi==2024.7.4
     # via
     #   docusign-esign
     #   hubspot-api-client
@@ -106,7 +106,7 @@ coverage[toml]==7.4.1
     # via
     #   coverage
     #   pytest-cov
-cryptography==41.0.7
+cryptography==43.0.1
     # via
     #   django-encrypted-model-fields
     #   docusign-esign
@@ -138,7 +138,7 @@ diff-match-patch==20230430
     # via django-import-export
 dill==0.3.8
     # via pylint
-django==4.2.3
+django==4.2.16
     # via
     #   -r requirements.in
     #   collectfast
@@ -180,7 +180,7 @@ django-admin-rangefilter==0.10.0
     # via -r requirements.in
 django-adminrestrict==3.1
     # via -r requirements.in
-django-allauth==0.54.0
+django-allauth==0.63.6
     # via -r requirements.in
 django-appconf==1.0.6
     # via
@@ -232,7 +232,7 @@ django-js-asset==2.2.0
     # via
     #   django-ckeditor
     #   django-mptt
-django-json-widget==1.1.1
+django-json-widget==2.0.0
     # via -r requirements.in
 django-logentry-admin==1.1.0
     # via -r requirements.in
@@ -284,7 +284,7 @@ django-svg-image-form-field==1.0.1
     # via -r requirements.in
 django-taggit==4.0.0
     # via -r requirements.in
-djangorestframework==3.14.0
+djangorestframework==3.15.2
     # via
     #   -r requirements.in
     #   djangorestframework-datatables
@@ -299,7 +299,7 @@ drf-yasg==1.21.7
     # via -r requirements.in
 et-xmlfile==1.1.0
     # via openpyxl
-eth-abi==5.0.0
+eth-abi==5.0.1
     # via
     #   eth-account
     #   web3
@@ -374,7 +374,7 @@ google-auth-httplib2==0.2.0
     # via google-api-python-client
 googleapis-common-protos==1.62.0
     # via google-api-core
-gunicorn==21.2.0
+gunicorn==22.0.0
     # via -r requirements.in
 hashids==1.3.1
     # via -r requirements.in
@@ -385,7 +385,7 @@ hexbytes==0.3.1
     #   eth-account
     #   eth-rlp
     #   web3
-holidays==0.29
+holidays==0.45
     # via -r requirements.in
 html5lib==1.1
     # via xhtml2pdf
@@ -399,7 +399,7 @@ httplib2==0.22.0
     #   google-auth-httplib2
 hubspot-api-client==8.0.0
     # via -r requirements.in
-idna==3.6
+idna==3.7
     # via
     #   requests
     #   yarl
@@ -527,7 +527,7 @@ pickleshare==0.7.5
     # via ipython
 pilkit==3.0
     # via django-imagekit
-pillow==9.5.0
+pillow==10.3.0
     # via
     #   -r requirements.in
     #   django-colorfield
@@ -704,7 +704,7 @@ reportlab==3.6.13
     #   -r requirements.in
     #   svglib
     #   xhtml2pdf
-requests==2.31.0
+requests==2.32.2
     # via
     #   currency-cloud
     #   django-allauth
@@ -743,14 +743,14 @@ s3transfer==0.10.0
     # via boto3
 scikit-image==0.22.0
     # via passporteye
-scikit-learn==1.4.0
+scikit-learn==1.5.0
     # via passporteye
 scipy==1.12.0
     # via
     #   passporteye
     #   scikit-image
     #   scikit-learn
-sentry-sdk==1.29.0
+sentry-sdk==2.8.0
     # via -r requirements.in
 six==1.16.0
     # via
@@ -767,7 +767,7 @@ six==1.16.0
     #   requests-aws4auth
 soupsieve==2.5
     # via beautifulsoup4
-sqlparse==0.4.4
+sqlparse==0.5.0
     # via django
 stack-data==0.6.3
     # via ipython
@@ -833,7 +833,7 @@ uritemplate==4.1.1
     #   google-api-python-client
 uritools==4.0.2
     # via pyhanko-certvalidator
-urllib3==2.0.7
+urllib3==2.2.2
     # via
     #   botocore
     #   docusign-esign
@@ -883,7 +883,7 @@ pip==23.2.1
     # via
     #   -r requirements.in
     #   pip-tools
-setuptools==69.0.3
+setuptools==70.0.0
     # via
     #   -r requirements.in
     #   django-axes
